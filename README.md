@@ -1,3 +1,4 @@
+
 <h1 align="center">CS115.M13.KHCL - Toán cho Khoa học Máy tính</h1>
 
 ## Mục lục
@@ -10,6 +11,7 @@
 ## Thông tin môn học
 * **Tên môn học**: Toán cho Khoa học Máy tính - Mathematics for Computer Science
 * **Mã môn học**: CS115
+* **Khoa quản lý**: Khoa học máy tính
 * **Lớp học**: CS11.M13.KHCL
 * **Học kì**: 1
 * **Năm học**: 2020-2021
@@ -28,4 +30,4 @@
 
 <a name="doancuoiky"></a>
 ## Đồ án cuối kì
-* **Đề tài**: Generative Adversarial Networks (GAN)
+* **Đề tài**: [Generative Adversarial Networks (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
