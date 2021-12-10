@@ -2,6 +2,6 @@
 
 ## Transfer Learning 
 
-* Thành theo file Tutorial.
+* Thực hành theo file Tutorial.
 
 ### Deadline: 19/12/2021
