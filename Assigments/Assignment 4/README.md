@@ -1,9 +1,11 @@
-# Assigment 4
+# Assigment 4 - Logistic Regression
 
-## Logistic Regression
+## Dataset Description
 
-* Đọc kĩ 2 file tutorial hướng dẫn, sau đó sử dụng Google Colab hoặc Jupyter Notebook để làm theo yêu cầu trong file Homework.
+- Folio Leaf dataset includes 199 images of 10 leaf species. The width and height of
+each image are 2322 and 4128 respectively.
 
-* Diễn đàn trao đổi: https://courses.uit.edu.vn/mod/forum/view.php?id=114789
+## Requirements
 
-### Deadline: 17/11/2021
+- Using Logistic Regression as a classification model. Training and testing model
+on Folio Leaf dataset.
