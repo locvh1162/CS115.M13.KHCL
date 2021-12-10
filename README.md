@@ -23,11 +23,3 @@
 ## Đồ án cuối kì
 
 * **Đề tài**: [Generative Adversarial Networks (GAN)](https://github.com/locvh1162/Generative_Adversarial_Networks)
-
-* **Thành viên nhóm**:
-
-| STT | MSSV     | Họ và Tên      | Email                  |
-|:----|:---------|:---------------|:-----------------------|
-| 1   | 20521553 | Võ Hoàng Lộc   | 20521553@gm.uit.edu.vn |
-| 2   | 20520821 | Võ Minh Trí    | 20520821@gm.uit.edu.vn |
-| 3   | 19521724 | Huỳnh Anh Kiệt | 19521724@gm.uit.edu.vn |
