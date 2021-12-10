@@ -1,21 +1,27 @@
-# Assignment 3 
-## Linear Regression (Normal Equations, Stochastic Gradient Descent, Gradient Descent)
+# Assignment 3 - Linear Regression
 
-* Bộ dữ liệu dataset trong thư mục 'data' (Tutorial.zip)
+|Dataset|Requirements|
+|:-|:-|
+|fish.csv|Using ‘Length1’, ‘Length2’, ‘Length3’, ‘Height’, ‘Width’ attributes to predict the fish weight (‘Weight’)|
+|insurance.csv|Using all attributes (except ‘charges’) to predict the medical insurance cost (‘charges’)|
+|wine.csv|Using all attributes (except ‘quaility’) to predict the quality of wine (‘quality’)|
+|weather.csv|Using all attributes (except ‘Temperature_c’) to predict the outside’s temperature (‘Temperature_c’)|
 
-* Tự học/xem file slides.pdf (Tutorial.zip) về 3 phương pháp thực hiện Linear Regression
->1. Normal Equation (slide 36)
->2. Stochastic Gradient Descent (slide 35)
->3. Gradient Descent (slide 33)
+## Requirements
 
-- Tạo file Google Colab với format "[StudentID] LinearRegression" (*Có thể tự thực hành bằng Jupyter Notebook*)
+### Normal Equation
 
-- Thực hành theo các yêu cầu được ghi trong 2 files sau:
->1. LinearRegression_NormalEquation.pdf
->2. LinearRegression_SGD_GD.pdf
+- Standardazing data
+- Splitting data into the training and testing set with ratio 7:3 (70% training, 30% testing)
+- Using MSE and R2 score to evaluate the performance (using sklearn.metrics)
 
-* Có thể tham khảo cách xử lý dữ liệu trong thư mục Data_Preprocessing.
+### Gradient Descent and Stochastic Gradient Descent
 
-* Diễn đàn trao đổi: https://courses.uit.edu.vn/mod/forum/view.php?id=114789
+- Standardazing data
+- Splitting data into the training and testing set with ratio 7:3 (70% training, 30% testing)
+- Coding from scratch for Gradient Descent.
+- Using library for Stochastic Gradient Descent.
+- Visualizing the cost (only for Gradient Descent)
+- Using MSE and R2 score to evaluate the performance (using sklearn.metrics)
 
-### Deadline: 10/11/2021
+
