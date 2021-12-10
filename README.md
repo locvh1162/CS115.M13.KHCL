@@ -1,11 +1,6 @@
 
 <h1 align="center">CS115.M13.KHCL - Toán cho Khoa học Máy tính</h1>
 
-## Mục lục
-* [Thông tin môn học](#thongtinmonhoc)
-* [Giảng viên hướng dẫn](#giangvienhuongdan)
-* [Đồ án cuối kì](#doancuoiky)
-
 <a name="thongtinmonhoc"></a>
 ## Thông tin môn học
 * **Tên môn học**: Toán cho Khoa học Máy tính - Mathematics for Computer Science
