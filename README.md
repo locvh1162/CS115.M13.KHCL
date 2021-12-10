@@ -22,7 +22,7 @@
 <a name="doancuoiky"></a>
 ## Đồ án cuối kì
 
-* **Đề tài**: [Generative Adversarial Networks (GAN)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
+* **Đề tài**: [Generative Adversarial Networks (GAN)](https://github.com/locvh1162/Generative_Adversarial_Networks)
 
 * **Thành viên nhóm**:
 
