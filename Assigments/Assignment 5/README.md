@@ -58,5 +58,5 @@
 import matplotlib.pyplot as plt
 image, lable = train_dataset[0]
 plt.imshow(image.permute((1, 2, 0)))
-print (classes[lable])
+print(classes[lable])
 ```
