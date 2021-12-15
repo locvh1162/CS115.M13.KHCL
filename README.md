@@ -17,7 +17,7 @@
 * **Năm học**: 2020-2021
 
 <a name="giangvienhuongdan"></a>
-## Giảng viên hướng dẫn
+## Giảng viên
 * TS. **Lương Ngọc Hoàng** - hoangln@uit.edu.vn
 
 <a name="doancuoiky"></a>
