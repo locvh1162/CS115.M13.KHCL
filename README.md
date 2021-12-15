@@ -1,3 +1,9 @@
+<!-- UIT Banner -->
+<div align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" target="_blank">
+    <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit_15.png">
+  </a>
+</div>
 
 <h1 align="center">CS115.M13.KHCL - Toán cho Khoa học Máy tính</h1>
 
