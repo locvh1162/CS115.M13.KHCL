@@ -18,9 +18,16 @@
 
 <a name="giangvienhuongdan"></a>
 ## Giảng viên
-* TS. **Lương Ngọc Hoàng** - hoangln@uit.edu.vn
+* TS. **Lương Ngọc Hoàng** - *hoangln@uit.edu.vn*
 
 <a name="doancuoiky"></a>
 ## Đồ án cuối kì
 
-* **Đề tài**: [Generative Adversarial Networks (GAN)](https://github.com/locvh1162/Generative_Adversarial_Networks)
+* **Đề tài**: Generative Adversarial Networks (GAN)
+* **Thành viên nhóm**:
+
+| STT | MSSV     | Name           | Github                                    | Email                  |
+|:----|:---------|:---------------|:------------------------------------------|:-----------------------|
+| 1   | 20521553 | Võ Hoàng Lộc   | [locvh1162](https://github.com/locvh1162) | 20521553@gm.uit.edu.vn |
+| 2   | 20520821 | Võ Minh Trí    | [trivm12](https://github.com/trivm12)     | 20520821@gm.uit.edu.vn |
+| 3   | 19521724 | Huỳnh Anh Kiệt | [favkiet](https://github.com/favkiet)     | 19521724@gm.uit.edu.vn |
