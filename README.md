@@ -12,7 +12,7 @@
 * **Tên môn học**: Toán cho Khoa học Máy tính - Mathematics for Computer Science
 * **Mã môn học**: CS115
 * **Khoa quản lý**: Khoa học máy tính
-* **Lớp học**: CS11.M13.KHCL
+* **Lớp học**: CS115.M13.KHCL
 * **Học kì**: 1
 * **Năm học**: 2020-2021
 
